@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">@color/colorBlue</color>
+    <color name="colorPrimaryDark">@android:color/black</color>
+    <color name="colorAccent">@color/colorModernTeal</color>
+
+    <color name="colorCalculatorBackground">@android:color/black</color>
+    <color name="colorCalculatorNumberCurrentText">@color/colorOffWhite</color>
+    <color name="colorCalculatorNumberHistoryText">@android:color/secondary_text_dark</color>
+    <color name="colorCalculatorButtonNumber">@android:color/black</color>
+    <color name="colorCalculatorButtonsText">@android:color/white</color>
+
+    <color name="colorModernTeal">#4FEF90</color>
+    <color name="colorBlue">#2f89fc</color>
+    <color name="colorOffWhite">#f5f5f5</color>
+
 </resources>
