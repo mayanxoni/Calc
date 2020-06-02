@@ -16,4 +16,7 @@ You can get started with learning Kotlin just by setting it up on your local mac
 # Screenshots
 ![Project Hero Image](https://raw.githubusercontent.com/mayanxoni/Calc/master/Screenshot.png)
 
+# Download
+[![Download latest release](https://img.shields.io/badge/Download-Here-success)](https://github.com/mayanxoni/Calc/releases/download/v1.0/Calc-v1.0.apk)
+
 ![Issues](https://img.shields.io/github/issues/mayanxoni/Calc) ![Forks](https://img.shields.io/github/forks/mayanxoni/Calc) ![Stars](https://img.shields.io/github/stars/mayanxoni/Calc) ![License](https://img.shields.io/github/license/mayanxoni/Calc) ![Tweet](https://img.shields.io/twitter/url?url=https://github.com/mayanxoni/Calc)
