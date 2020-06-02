@@ -14,6 +14,6 @@ You can get started with learning Kotlin just by setting it up on your local mac
  4. Run on your physical Android device or on an [AVD](https://developer.android.com/studio/run/managing-avds)
 
 # Screenshots
-![Project Hero Image]([https://raw.githubusercontent.com/mayanxoni/Calc/master/Screenshot.png](https://raw.githubusercontent.com/mayanxoni/Calc/master/Screenshot.png))
+![Project Hero Image](https://raw.githubusercontent.com/mayanxoni/Calc/master/Screenshot.png)
 
 ![Issues](https://img.shields.io/github/issues/mayanxoni/Calc) ![Forks](https://img.shields.io/github/forks/mayanxoni/Calc) ![Stars](https://img.shields.io/github/stars/mayanxoni/Calc) ![License](https://img.shields.io/github/license/mayanxoni/Calc) ![Tweet](https://img.shields.io/twitter/url?url=https://github.com/mayanxoni/Calc)
